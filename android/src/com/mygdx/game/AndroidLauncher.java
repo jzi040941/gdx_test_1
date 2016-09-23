@@ -14,5 +14,10 @@ public class AndroidLauncher extends AndroidApplication {
 		initialize(new MyGdxGame(), config);
 
 		//change
+
+	}
+
+	int sum(int a, int b){
+		return a+b;
 	}
 }
